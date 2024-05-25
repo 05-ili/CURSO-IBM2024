@@ -7,6 +7,7 @@ var = "par" if (num %2 ==0) else "impar"
 print(var)
 
 #  Seria como escribir
+# comentario añadido en la version v1.1
 
 num = 12
 
